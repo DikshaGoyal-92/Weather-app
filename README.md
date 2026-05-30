@@ -29,7 +29,7 @@ npm run dev
 
 📸 Screenshot
 
-![Weather App](./public/pic.jpg)
+![Weather App](./pic.jpg)
 
 🚀 Live Demo
 
