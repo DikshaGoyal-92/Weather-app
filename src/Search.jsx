@@ -4,6 +4,7 @@ export default function Search({ onSearch }) {
   const [city, setCity] = useState("");
 
   const handleSearch = () => {
+    if (!city.trim()) return;
     onSearch(city);
     setCity("");
   };

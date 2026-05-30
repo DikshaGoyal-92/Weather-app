@@ -1,7 +1,9 @@
 export default function WeatherCard({ data }) {
   return (
     <div className="card">
-      <h2>{data.name}, {data.sys.country}</h2>
+      <h2>
+        {data.name}, {data.sys.country}
+      </h2>
 
       <h1>{Math.round(data.main.temp)}°C</h1>
 

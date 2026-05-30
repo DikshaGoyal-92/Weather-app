@@ -10,7 +10,7 @@ body {
   height: 100vh;
 }
 
-/* MAIN LAYOUT */
+/* CENTER APP */
 .app {
   display: flex;
   justify-content: center;
@@ -18,13 +18,12 @@ body {
   height: 100vh;
 }
 
-/* CONTAINER */
 .container {
   text-align: center;
   color: white;
 }
 
-/* SEARCH BOX */
+/* SEARCH */
 .search {
   margin: 20px 0;
 }
@@ -49,11 +48,10 @@ body {
 
 /* CARD */
 .card {
-  background: rgba(0,0,0,0.3);
+  background: rgba(0, 0, 0, 0.3);
   padding: 20px;
   border-radius: 12px;
   width: 280px;
-  margin: auto;
   margin-top: 20px;
 }
 

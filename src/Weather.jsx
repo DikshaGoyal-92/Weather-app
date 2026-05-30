@@ -10,8 +10,6 @@ export default function Weather() {
   const API_KEY = import.meta.env.VITE_WEATHER_KEY;
 
   const fetchWeather = async (city) => {
-    if (!city) return;
-
     try {
       setError("");
 
