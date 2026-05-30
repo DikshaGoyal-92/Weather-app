@@ -27,9 +27,9 @@ A modern and responsive weather application built using React and OpenWeather AP
 npm install
 npm run dev
 
-📸 Screenshot
+## 📸 Screenshot
 
-![Weather App](./public/screenshot.jpg)
+![Weather App](https://raw.githubusercontent.com/DikshaGoyal-92/Weather-app/main/public/screenshot.jpg)
 
 🚀 Live Demo
 
