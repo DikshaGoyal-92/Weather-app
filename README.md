@@ -27,55 +27,16 @@ A modern and responsive weather application built using React and OpenWeather AP
 npm install
 npm run dev
 
-
+📸 Screenshot
 ## 📸 Screenshot
 
-![Weather App](./src/assets/screenshot.jpeg)
+![Weather App](./public/screenshot.JPG)
 
-## 🚀 Live Demo
-
-
+🚀 Live Demo
 
 
 👩‍💻 Author
 
 Diksha Goyal
-
-
----
-
-# 💡 AB TERA QUESTION: “author alag kyun diya?”
-
-## 👉 simple answer:
-
-### 👤 Author section ka purpose:
-
-✔ kaunne project banaya hai show karna  
-✔ recruiters + GitHub visitors ko identity dena  
-✔ portfolio credit dena  
-
----
-
-## 💡 BUT IMPORTANT:
-
-👉 ye optional hota hai  
-👉 code pe koi effect nahi padta  
-👉 sirf presentation ke liye hota hai  
-
----
-
-# 🌟 REAL PORTFOLIO TIP
-
-Agar aur professional banana hai:
-
-✔ GitHub username add karo  
-✔ LinkedIn link add karo  
-✔ portfolio link add karo  
-
-Example:
-
-```md
-## 👩‍💻 Author
-Diksha Goyal  
-GitHub: github.com/username  
-LinkedIn: linkedin.com/in/yourprofile
+GitHub: https://github.com/DikshaGoyal-92
+LinkedIn: https://www.linkedin.com/in/diksha-goyal-414ab224a/
