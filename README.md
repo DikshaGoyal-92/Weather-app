@@ -28,9 +28,8 @@ npm install
 npm run dev
 
 📸 Screenshot
-## 📸 Screenshot
 
-![Weather App](./public/screenshot.JPG)
+![Weather App](./public/screenshot.jpg)
 
 🚀 Live Demo
 
